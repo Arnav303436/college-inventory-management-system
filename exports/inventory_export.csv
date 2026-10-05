@@ -1,0 +1,9 @@
+Item Code,Name,Category,Department,Quantity,Min Threshold,Unit Price (INR),Total Valuation (INR),Location,Status,Supplier
+"CHEM-BEAK-01","Borosil 500ml Pyrex Glass Beakers (Set of 10)","Chemicals & Glassware","Department of Chemistry",8,15,1200.00,9600.00,"Chemistry Store Rack 1","Working","Borosil Scientific Glass"
+"CHEM-BUN-02","Stainless Steel Bunsen Burner with Valve","Chemicals & Glassware","Department of Chemistry",30,10,850.00,25500.00,"Chemistry Lab Workbenches","Working","Borosil Scientific Glass"
+"CSE-PRJ-002","BenQ 4K Laser Projector 4000 Lumens","Audio-Visual Equipment","Computer Science & Engineering",6,2,72000.00,432000.00,"Seminar Hall 1 & 2","Working","BenQ Educational Displays"
+"CSE-WS-001","Dell Precision 3660 Workstation i7 32GB","Computers & Laptops","Computer Science & Engineering",45,10,85000.00,3825000.00,"Lab 4, Software Lab","Working","Dell Technologies Enterprise"
+"ECE-ARD-015","Arduino Mega 2560 R3 Starter Kit","Lab Instrumentation","Electronics & Communication Engg",28,8,2500.00,70000.00,"Embedded Systems Cupboard 3","Working","Tektronix Instruments India"
+"ECE-DSO-010","Tektronix 100MHz Digital Oscilloscope","Lab Instrumentation","Electronics & Communication Engg",14,5,48000.00,672000.00,"ECE Hardware Lab Rack B","Working","Tektronix Instruments India"
+"MECH-3DP-001","Creality Ender 3 V3 Plus 3D Printer","Workshop Machinery","Mechanical Engineering",3,2,38000.00,114000.00,"Robotics & Prototyping Cell","Working","Dell Technologies Enterprise"
+"SPORTS-BB-01","Spalding NBA Official Leather Basketball","Sports Gear","Physical Education & Sports",4,6,3200.00,12800.00,"Sports Locker 2","Working","BenQ Educational Displays"

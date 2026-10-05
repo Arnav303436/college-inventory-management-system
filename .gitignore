@@ -1,0 +1,20 @@
+# Compiled bytecode
+bin/
+*.class
+
+# SQLite Database (optional: keep or ignore)
+*.db-journal
+*.db-wal
+*.db-shm
+
+# IDE & Editor caches
+.idea/
+.vscode/
+*.iml
+.settings/
+.project
+.classpath
+
+# Temporary logs
+*.log
+sources.txt

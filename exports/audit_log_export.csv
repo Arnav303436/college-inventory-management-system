@@ -1,0 +1,3 @@
+Log ID,Item Code,Item Name,Transaction Type,Qty Change,Resulting Qty,Reference / Note,Performed By,Timestamp
+1,"CSE-WS-001","Dell Precision 3660 Workstation i7 32GB","STOCK_IN",+45,45,"Initial procurement PO #COL-2026-091","admin","2026-10-05 15:33:10"
+2,"ECE-DSO-010","Tektronix 100MHz Digital Oscilloscope","STOCK_IN",+14,14,"Grant procurement batch 1","admin","2026-10-05 15:33:10"
