@@ -26,11 +26,15 @@ If you have Java (JDK 17 or 21+) installed, you can launch the project immediate
 
 ### 💻 On Windows:
 - **To Launch the Modern Desktop GUI**:
-  Simply double-click **`run.bat`** (or open Command Prompt and type `run.bat`).
+  Double-click **`run.bat`** in File Explorer, or run in terminal:
+  - Command Prompt: `run.bat`
+  - PowerShell: `.\run.bat` or `.\run.ps1`
 - **To Launch in Terminal / Console (CLI) Mode**:
-  Simply double-click **`run_cli.bat`** (or open Command Prompt and type `run_cli.bat`).
+  Double-click **`run_cli.bat`** in File Explorer, or run in terminal:
+  - Command Prompt: `run_cli.bat`
+  - PowerShell: `.\run_cli.bat` or `.\run_cli.ps1`
 - **To Recompile Source Code**:
-  Double-click **`build.bat`**.
+  Double-click **`build.bat`**, or run `build.bat` (PowerShell: `.\build.bat`).
 
 > **Note**: `run.bat` and `run_cli.bat` automatically detect if the project is compiled, and will run `build.bat` for you on first launch!
 
